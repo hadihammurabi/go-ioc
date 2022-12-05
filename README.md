@@ -1,4 +1,4 @@
-# moved to 
+# moved to https://github.com/gowok/ioc
 
 # go-ioc
 IOC addons for Go
